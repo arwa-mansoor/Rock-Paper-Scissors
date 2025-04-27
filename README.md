@@ -48,8 +48,8 @@ Here are some screenshots showing different stages of the Rock, Paper, Scissors 
     ![image](https://github.com/user-attachments/assets/2de8527c-c091-4e9b-877c-d23d975f929a)
  
 
- - 2. **Round Results**  
-   Displays the score after each round.
+ - 2. **Game Results**  
+   Displays the score after each round and the final Scoreboard after 5 rounds.
 
     ![image](https://github.com/user-attachments/assets/16c2bddf-1f07-4fc8-8e3a-5df80d984298)
 
