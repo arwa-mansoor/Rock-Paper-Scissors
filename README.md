@@ -84,22 +84,22 @@ The current version of Rock, Paper, Scissors includes the basic gameplay. Here a
    
    **Implementation:** Introduce new modes that allow players to play a series of rounds.
 
-- 2. **Sound Effects** 🎶
+ 2. **Sound Effects** 🎶
    - Integrate sound effects for each move, win, loss, or draw.
 
    **Implementation:**  Add sounds that play when you make a move or when a round concludes.
 
-- 3. **Graphical User Interface (GUI)** 💻
+ 3. **Graphical User Interface (GUI)** 💻
    - Transition from terminal output to a GUI for a more visually appealing experience.
 
    **Implementation:** Use libraries like SFML or SDL to build a graphical interface where you can click options instead of typing them.
 
-- 4. **Multiplayer Mode** 👫
+ 4. **Multiplayer Mode** 👫
    - Allow two players to play against each other on the same device.
 
    **Implementation:** Implement a multiplayer feature where two users can play using different inputs.
 
-- 5. **Leaderboards** 🏆
+ 5. **Leaderboards** 🏆
    - Track player statistics, such as number of wins, losses, and draws.
 
    **Implementation:** Store player stats in a file and display the leaderboard at the end of the game.
